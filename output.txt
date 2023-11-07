@@ -1,0 +1,353 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1 166640  8064 ?        Ss   10:37   0:02 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    10:37   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   10:37   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   10:37   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   10:37   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   10:37   0:00 [netns]
+root          11  0.0  0.0      0     0 ?        I<   10:37   0:00 [mm_percpu_wq]
+root          12  0.0  0.0      0     0 ?        I    10:37   0:00 [rcu_tasks_kthread]
+root          13  0.0  0.0      0     0 ?        I    10:37   0:00 [rcu_tasks_rude_kthread]
+root          14  0.0  0.0      0     0 ?        I    10:37   0:00 [rcu_tasks_trace_kthread]
+root          15  0.0  0.0      0     0 ?        S    10:37   0:00 [ksoftirqd/0]
+root          16  0.0  0.0      0     0 ?        I    10:37   0:08 [rcu_preempt]
+root          17  0.0  0.0      0     0 ?        S    10:37   0:00 [migration/0]
+root          18  0.0  0.0      0     0 ?        S    10:37   0:00 [idle_inject/0]
+root          19  0.0  0.0      0     0 ?        S    10:37   0:00 [cpuhp/0]
+root          20  0.0  0.0      0     0 ?        S    10:37   0:00 [cpuhp/2]
+root          21  0.0  0.0      0     0 ?        S    10:37   0:00 [idle_inject/2]
+root          22  0.0  0.0      0     0 ?        S    10:37   0:00 [migration/2]
+root          23  0.0  0.0      0     0 ?        S    10:37   0:00 [ksoftirqd/2]
+root          26  0.0  0.0      0     0 ?        S    10:37   0:00 [cpuhp/4]
+root          27  0.0  0.0      0     0 ?        S    10:37   0:00 [idle_inject/4]
+root          28  0.0  0.0      0     0 ?        S    10:37   0:00 [migration/4]
+root          29  0.0  0.0      0     0 ?        S    10:37   0:00 [ksoftirqd/4]
+root          32  0.0  0.0      0     0 ?        S    10:37   0:00 [cpuhp/6]
+root          33  0.0  0.0      0     0 ?        S    10:37   0:00 [idle_inject/6]
+root          34  0.0  0.0      0     0 ?        S    10:37   0:00 [migration/6]
+root          35  0.0  0.0      0     0 ?        S    10:37   0:00 [ksoftirqd/6]
+root          38  0.0  0.0      0     0 ?        S    10:37   0:00 [cpuhp/1]
+root          39  0.0  0.0      0     0 ?        S    10:37   0:00 [idle_inject/1]
+root          40  0.0  0.0      0     0 ?        S    10:37   0:00 [migration/1]
+root          41  0.0  0.0      0     0 ?        S    10:37   0:00 [ksoftirqd/1]
+root          44  0.0  0.0      0     0 ?        S    10:37   0:00 [cpuhp/3]
+root          45  0.0  0.0      0     0 ?        S    10:37   0:00 [idle_inject/3]
+root          46  0.0  0.0      0     0 ?        S    10:37   0:00 [migration/3]
+root          47  0.0  0.0      0     0 ?        S    10:37   0:00 [ksoftirqd/3]
+root          50  0.0  0.0      0     0 ?        S    10:37   0:00 [cpuhp/5]
+root          51  0.0  0.0      0     0 ?        S    10:37   0:00 [idle_inject/5]
+root          52  0.0  0.0      0     0 ?        S    10:37   0:00 [migration/5]
+root          53  0.0  0.0      0     0 ?        S    10:37   0:00 [ksoftirqd/5]
+root          56  0.0  0.0      0     0 ?        S    10:37   0:00 [cpuhp/7]
+root          57  0.0  0.0      0     0 ?        S    10:37   0:00 [idle_inject/7]
+root          58  0.0  0.0      0     0 ?        S    10:37   0:00 [migration/7]
+root          59  0.0  0.0      0     0 ?        S    10:37   0:00 [ksoftirqd/7]
+root          62  0.0  0.0      0     0 ?        S    10:37   0:00 [kdevtmpfs]
+root          63  0.0  0.0      0     0 ?        I<   10:37   0:00 [inet_frag_wq]
+root          65  0.0  0.0      0     0 ?        S    10:37   0:00 [kauditd]
+root          66  0.0  0.0      0     0 ?        S    10:37   0:00 [khungtaskd]
+root          67  0.0  0.0      0     0 ?        S    10:37   0:00 [oom_reaper]
+root          69  0.0  0.0      0     0 ?        I<   10:37   0:00 [writeback]
+root          70  0.0  0.0      0     0 ?        S    10:37   0:07 [kcompactd0]
+root          71  0.0  0.0      0     0 ?        SN   10:37   0:00 [ksmd]
+root          72  0.0  0.0      0     0 ?        SN   10:37   0:00 [khugepaged]
+root          73  0.0  0.0      0     0 ?        I<   10:37   0:00 [kintegrityd]
+root          74  0.0  0.0      0     0 ?        I<   10:37   0:00 [kblockd]
+root          75  0.0  0.0      0     0 ?        I<   10:37   0:00 [blkcg_punt_bio]
+root          78  0.0  0.0      0     0 ?        I<   10:37   0:00 [tpm_dev_wq]
+root          79  0.0  0.0      0     0 ?        I<   10:37   0:00 [ata_sff]
+root          80  0.0  0.0      0     0 ?        I<   10:37   0:00 [md]
+root          81  0.0  0.0      0     0 ?        I<   10:37   0:00 [md_bitmap]
+root          82  0.0  0.0      0     0 ?        I<   10:37   0:00 [edac-poller]
+root          83  0.0  0.0      0     0 ?        I<   10:37   0:00 [devfreq_wq]
+root          84  0.0  0.0      0     0 ?        S    10:37   0:00 [watchdogd]
+root          86  0.0  0.0      0     0 ?        S    10:37   0:00 [irq/25-AMD-Vi]
+root          87  0.1  0.0      0     0 ?        S    10:37   0:22 [kswapd0]
+root          88  0.0  0.0      0     0 ?        S    10:37   0:00 [ecryptfs-kthread]
+root          89  0.0  0.0      0     0 ?        I<   10:37   0:00 [kthrotld]
+root          90  0.0  0.0      0     0 ?        S    10:37   0:00 [irq/26-aerdrv]
+root          91  0.0  0.0      0     0 ?        S    10:37   0:00 [irq/26-pciehp]
+root          92  0.0  0.0      0     0 ?        S    10:37   0:00 [irq/27-aerdrv]
+root          93  0.0  0.0      0     0 ?        S    10:37   0:00 [irq/29-aerdrv]
+root          95  0.0  0.0      0     0 ?        I    10:37   0:00 [kworker/3:1-events]
+root          96  0.0  0.0      0     0 ?        I    10:37   0:01 [kworker/5:1-mm_percpu_wq]
+root          99  0.0  0.0      0     0 ?        I<   10:37   0:00 [acpi_thermal_pm]
+root         101  0.0  0.0      0     0 ?        I<   10:37   0:00 [vfio-irqfd-clea]
+root         103  0.0  0.0      0     0 ?        I<   10:37   0:00 [mld]
+root         104  0.0  0.0      0     0 ?        I<   10:37   0:00 [ipv6_addrconf]
+root         112  0.0  0.0      0     0 ?        I<   10:37   0:00 [kstrp]
+root         119  0.0  0.0      0     0 ?        I<   10:37   0:00 [charger_manager]
+root         164  0.0  0.0      0     0 ?        S    10:37   0:00 [irq/30-ELAN1200:00]
+root         183  0.0  0.0      0     0 ?        I<   10:37   0:00 [cryptd]
+root         185  0.0  0.0      0     0 ?        S    10:37   0:00 [scsi_eh_0]
+root         186  0.0  0.0      0     0 ?        I<   10:37   0:00 [scsi_tmf_0]
+root         187  0.0  0.0      0     0 ?        I<   10:37   0:00 [nvme-wq]
+root         188  0.0  0.0      0     0 ?        I<   10:37   0:00 [nvme-reset-wq]
+root         189  0.0  0.0      0     0 ?        I<   10:37   0:00 [nvme-delete-wq]
+root         190  0.0  0.0      0     0 ?        I<   10:37   0:00 [nvme-auth-wq]
+root         194  0.0  0.0      0     0 ?        I<   10:37   0:00 [amd_iommu_v2]
+root         196  0.0  0.0      0     0 ?        I<   10:37   0:00 [amdgpu-reset-de]
+root         197  0.0  0.0      0     0 ?        I<   10:37   0:00 [ttm]
+root         198  0.0  0.0      0     0 ?        I<   10:37   0:00 [amdgpu_dm_hpd_r]
+root         199  0.0  0.0      0     0 ?        I<   10:37   0:00 [amdgpu_dm_hpd_r]
+root         200  0.0  0.0      0     0 ?        I<   10:37   0:00 [dm_vblank_contr]
+root         201  0.0  0.0      0     0 ?        S    10:37   0:00 [card0-crtc0]
+root         202  0.0  0.0      0     0 ?        S    10:37   0:00 [card0-crtc1]
+root         203  0.0  0.0      0     0 ?        S    10:37   0:00 [card0-crtc2]
+root         204  0.0  0.0      0     0 ?        S    10:37   0:00 [card0-crtc3]
+root         205  0.2  0.0      0     0 ?        S    10:37   0:33 [gfx_low]
+root         206  0.0  0.0      0     0 ?        S    10:37   0:00 [gfx_high]
+root         207  0.0  0.0      0     0 ?        S    10:37   0:00 [comp_1.0.0]
+root         208  0.0  0.0      0     0 ?        S    10:37   0:00 [comp_1.1.0]
+root         209  0.0  0.0      0     0 ?        S    10:37   0:00 [comp_1.2.0]
+root         210  0.0  0.0      0     0 ?        S    10:37   0:00 [comp_1.3.0]
+root         211  0.0  0.0      0     0 ?        S    10:37   0:00 [comp_1.0.1]
+root         212  0.0  0.0      0     0 ?        S    10:37   0:00 [comp_1.1.1]
+root         213  0.0  0.0      0     0 ?        S    10:37   0:00 [comp_1.2.1]
+root         214  0.0  0.0      0     0 ?        S    10:37   0:00 [comp_1.3.1]
+root         215  0.0  0.0      0     0 ?        S    10:37   0:01 [sdma0]
+root         216  0.0  0.0      0     0 ?        S    10:37   0:00 [vcn_dec]
+root         217  0.0  0.0      0     0 ?        S    10:37   0:00 [vcn_enc0]
+root         218  0.0  0.0      0     0 ?        S    10:37   0:00 [vcn_enc1]
+root         219  0.0  0.0      0     0 ?        S    10:37   0:00 [jpeg_dec]
+root         246  0.0  0.0      0     0 ?        I<   10:37   0:00 [raid5wq]
+root         289  0.0  0.0      0     0 ?        S    10:37   0:01 [jbd2/nvme0n1p3-8]
+root         290  0.0  0.0      0     0 ?        I<   10:37   0:00 [ext4-rsv-conver]
+root         341  0.1  0.8  98012 50604 ?        SNs  10:37   0:31 /lib/systemd/systemd-journald
+root         381  0.0  0.0  26964  4096 ?        SNs  10:37   0:00 /lib/systemd/systemd-udevd
+root         424  0.0  0.0      0     0 ?        S    10:37   0:00 [ccp-1-q2]
+root         425  0.0  0.0      0     0 ?        S    10:37   0:00 [ccp-1-q3]
+root         426  0.0  0.0      0     0 ?        S    10:37   0:00 [ccp-1-q4]
+root         427  0.0  0.0      0     0 ?        S    10:37   0:00 [hwrng]
+root         536  0.0  0.0      0     0 ?        I<   10:37   0:00 [cfg80211]
+root         550  0.0  0.0      0     0 ?        I<   10:37   0:00 [kdmflush/253:0]
+root         567  0.0  0.0      0     0 ?        I<   10:37   0:00 [kcryptd_io/253:]
+root         568  0.0  0.0      0     0 ?        I<   10:37   0:00 [kcryptd/253:0]
+root         574  0.0  0.0      0     0 ?        S    10:37   0:00 [dmcrypt_write/253:0]
+systemd+     597  0.0  0.1  26080  7892 ?        SNs  10:37   0:01 /lib/systemd/systemd-resolved
+root         607  0.0  0.0      0     0 ?        I<   10:37   0:00 [led_workqueue]
+root         670  0.0  0.0      0     0 ?        I<   10:37   0:00 [kmemstick]
+root         705  0.4  0.0      0     0 ?        S    10:37   1:06 [irq/75-rtw88_pci]
+message+     737  0.0  0.0  10344  3116 ?        SNs  10:37   0:00 /usr/bin/dbus-broker-launch --scope system --audit
+root         738  0.0  0.0      0     0 ?        I    10:37   0:01 [kworker/1:3-mm_percpu_wq]
+message+     740  0.0  0.0   7148  3440 ?        S    10:37   0:05 dbus-broker --log 4 --controller 9 --machine-id 846950e412f87116c40af49b647504e0 --max-bytes 536870912 --max-fds 4096 --max-matches 131072 --audit
+root         741  0.0  0.2 271224 13628 ?        SNsl 10:37   0:09 /usr/sbin/NetworkManager --no-daemon
+root         742  0.0  0.1 249980  6584 ?        SNsl 10:37   0:03 /usr/libexec/accounts-daemon
+root         743  0.0  0.0   2812  1792 ?        SNs  10:37   0:00 /usr/sbin/acpid
+avahi        745  0.0  0.0   7812  3200 ?        SNs  10:37   0:00 avahi-daemon: running [pop-os.local]
+root         746  0.0  0.0  10892  4608 ?        SNs  10:37   0:05 /usr/lib/bluetooth/bluetoothd
+root         748  0.0  0.0  86400  3200 ?        SNs  10:37   0:11 /usr/bin/system76-power daemon
+root         750  0.0  0.1  84716  6872 ?        SNsl 10:37   0:01 /usr/bin/system76-scheduler daemon
+root         751  0.0  0.0  19296  2432 ?        SNs  10:37   0:00 /usr/sbin/cron -f -P
+root         755  0.0  0.1  50836  6784 ?        SNs  10:37   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         758  0.0  0.1 236984  8636 ?        SNsl 10:37   0:02 /usr/libexec/polkitd --no-debug
+syslog       769  0.0  0.0 222432  4224 ?        SNsl 10:37   0:06 /usr/sbin/rsyslogd -n -iNONE
+root         780  0.0  0.0 246276  5888 ?        SNsl 10:37   0:00 /usr/libexec/switcheroo-control
+root         787  0.0  0.0  48332  5412 ?        SNs  10:37   0:00 /lib/systemd/systemd-logind
+root         795  0.0  0.1 332420  8320 ?        SNsl 10:37   0:05 /usr/bin/touchegg --daemon
+root         798  0.0  0.1 396352  7608 ?        SNsl 10:37   0:00 /usr/libexec/udisks2/udisksd
+root         801  0.0  0.0  17840  4864 ?        SNs  10:37   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        812  0.0  0.0   7472  1032 ?        SN   10:37   0:00 avahi-daemon: chroot helper
+root         827  0.0  0.1 317988  6440 ?        SNsl 10:37   0:00 /usr/sbin/ModemManager
+root         857  0.0  0.1 1578340 10852 ?       SNsl 10:37   0:13 /usr/bin/containerd
+root         862  0.0  0.1 252260  7808 ?        SNsl 10:37   0:07 /usr/libexec/upowerd
+_chrony      908  0.0  0.0  19004  3228 ?        SN   10:37   0:00 /usr/sbin/chronyd -F 1
+_chrony      914  0.0  0.0  10720  2500 ?        SN   10:37   0:00 /usr/sbin/chronyd -F 1
+root         950  0.0  0.1 251160  6528 ?        SNsl 10:37   0:00 /usr/sbin/gdm3
+root         973  0.0  0.1  82844  8832 ?        SNs  10:37   0:00 /usr/sbin/cupsd -l
+root         975  0.0  0.1 284104  6028 ?        SN   10:37   0:04 /usr/bin/python3 /usr/sbin/execsnoop-bpfcc
+rtkit       1020  0.0  0.0 154032  2816 ?        SNsl 10:37   0:00 /usr/libexec/rtkit-daemon
+root        1051  0.0  0.0      0     0 ?        S<   10:37   0:00 [krfcommd]
+root        1079  0.0  0.0 630400  4096 ?        SNsl 10:37   0:01 /usr/bin/pop-system-updater
+root        1080  0.0  0.1 172652  8320 ?        SNsl 10:37   0:00 /usr/sbin/cups-browsed
+root        1081  0.0  0.3 1758916 20448 ?       SNsl 10:37   0:03 /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock
+root        1124  0.0  0.0      0     0 ?        I<   10:37   0:00 [iprt-VBoxWQueue]
+root        1128  0.0  0.0      0     0 ?        S    10:37   0:00 [iprt-VBoxTscThread]
+root        1519  0.0  0.1 383452 11104 ?        Ssl  10:37   0:10 /usr/libexec/packagekitd
+root        1616  0.0  0.0 170224  5772 ?        SNl  10:37   0:00 /usr/bin/system76-scheduler pipewire
+colord      1657  0.0  0.1 255316  8452 ?        Ssl  10:37   0:00 /usr/libexec/colord
+root        1873  0.0  0.1 182272  6860 ?        SNl  10:38   0:00 gdm-session-worker [pam/gdm-password]
+disilso     1886  0.0  0.1  18144  7680 ?        Ss   10:38   0:00 /lib/systemd/systemd --user
+disilso     1887  0.0  0.0 171888  2112 ?        S    10:38   0:00 (sd-pam)
+disilso     1896  0.0  0.1 144480 10608 ?        S<sl 10:38   0:03 /usr/bin/pipewire
+disilso     1900  0.4  0.2 349172 15928 ?        S<sl 10:38   1:21 /usr/bin/wireplumber
+disilso     1901  0.1  0.2 128300 16528 ?        S<sl 10:38   0:32 /usr/bin/pipewire-pulse
+disilso     1903  0.0  0.0   9704  2944 ?        SNs  10:38   0:00 /usr/bin/dbus-broker-launch --scope user
+disilso     1905  0.0  0.0 324524  5788 ?        SNl  10:38   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+disilso     1909  0.0  0.0   7436  3872 ?        S    10:38   0:01 dbus-broker --log 4 --controller 10 --machine-id 846950e412f87116c40af49b647504e0 --max-bytes 100000000000000 --max-fds 25000000000000 --max-matches 5000000000
+root        1910  0.0  0.2 407848 14852 ?        SNsl 10:38   0:08 /usr/libexec/fwupd/fwupd
+disilso     1918  0.0  0.1 250440  6528 ?        SNsl 10:38   0:00 /usr/libexec/gvfsd
+disilso     1926  0.0  0.1 380888  6016 ?        SNl  10:38   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+disilso     1943  0.0  0.2 643528 14884 ?        SNsl 10:38   0:01 /usr/libexec/tracker-miner-fs-3
+disilso     1949  0.0  0.1 325740  7424 ?        SNsl 10:38   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+disilso     1954  0.0  0.1 325008  7168 ?        SNsl 10:38   0:00 /usr/libexec/gvfs-afc-volume-monitor
+disilso     1959  0.0  0.0 246432  5760 ?        SNsl 10:38   0:00 /usr/libexec/gvfs-goa-volume-monitor
+disilso     1962  0.0  0.1 578348 10880 ?        SNsl 10:38   0:00 /usr/libexec/goa-daemon
+disilso     1964  0.0  0.0 172228  5632 tty2     SNsl+ 10:38   0:00 /usr/libexec/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=pop /usr/bin/gnome-session --session=pop
+disilso     1966  2.3  0.7 864024 46736 tty2     S<l+ 10:38   6:24 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -nolisten tcp -background none -noreset -keeptty -novtswitch -verbose 3
+disilso     1973  0.0  0.1 348232  9472 ?        SNsl 10:38   0:00 /usr/libexec/goa-identity-service
+disilso     1975  0.0  0.0 247344  5888 ?        SNsl 10:38   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+disilso     1982  0.0  0.0 246384  5760 ?        SNsl 10:38   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+disilso     1997  0.0  0.1 173024  6272 ?        SNsl 10:38   0:00 /usr/libexec/gvfsd-metadata
+disilso     2005  0.0  0.1 232872  9088 tty2     SNl+ 10:38   0:00 /usr/libexec/gnome-session-binary --session=pop
+disilso     2062  0.0  0.1 309768  6912 ?        SNsl 10:38   0:00 /usr/libexec/at-spi-bus-launcher
+disilso     2067  0.0  0.0   9552  3072 ?        SN   10:38   0:00 /usr/bin/dbus-broker-launch --config-file=/usr/share/defaults/at-spi2/accessibility.conf --scope user
+disilso     2068  0.0  0.0   5024  2432 ?        S    10:38   0:00 dbus-broker --log 4 --controller 9 --machine-id 846950e412f87116c40af49b647504e0 --max-bytes 100000000000000 --max-fds 6400000 --max-matches 5000000000
+disilso     2083  0.0  0.0 101740  4992 ?        SNsl 10:38   0:00 /usr/libexec/gnome-session-ctl --monitor
+disilso     2094  0.0  0.1 602864 10368 ?        SNsl 10:38   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=pop
+disilso     2117  2.9  1.8 4697592 111752 ?      S<sl 10:38   7:58 /usr/bin/gnome-shell
+disilso     2143  0.0  0.1 246580  6400 ?        SNsl 10:38   0:00 /usr/libexec/xdg-permission-store
+disilso     2149  0.0  0.1 582940  8192 ?        SNsl 10:38   0:00 /usr/libexec/gnome-shell-calendar-server
+disilso     2155  0.0  0.1 1082004 10368 ?       SNsl 10:38   0:00 /usr/libexec/evolution-source-registry
+disilso     2161  0.0  0.0 157096  5632 ?        SNsl 10:38   0:00 /usr/libexec/dconf-service
+disilso     2164  0.0  0.1 850280 11392 ?        SNsl 10:38   0:00 /usr/libexec/evolution-calendar-factory
+disilso     2177  0.0  0.1 755788 10880 ?        SNsl 10:38   0:00 /usr/libexec/evolution-addressbook-factory
+disilso     2186  0.0  0.1 334668  7040 ?        SNl  10:38   0:00 /usr/libexec/gvfsd-trash --spawner :1.9 /org/gtk/gvfs/exec_spaw/0
+disilso     2199  0.0  0.1 560520  9648 ?        SNsl 10:38   0:00 /usr/libexec/xdg-desktop-portal
+disilso     2203  0.0  0.1 547900  6528 ?        SNsl 10:38   0:00 /usr/libexec/xdg-document-portal
+root        2208  0.0  0.0   2792  1792 ?        SNs  10:38   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+disilso     2212  0.0  1.2 2208132 77768 ?       SNsl 10:38   0:08 /usr/libexec/xdg-desktop-portal-gnome
+disilso     2236  0.0  0.2 2941088 16652 ?       SNsl 10:38   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+disilso     2237  0.0  0.1 162780  6656 ?        SNsl 10:38   0:01 /usr/libexec/at-spi2-registryd --use-gnome-session
+disilso     2255  0.0  0.0   2888  1536 ?        SNs  10:38   0:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+disilso     2256  0.0  0.1 320212  6144 ?        SNsl 10:38   0:00 /usr/libexec/gsd-a11y-settings
+disilso     2258  0.0  0.1 398860  8416 ?        SNl  10:38   0:11 /usr/bin/ibus-daemon --panel disable --xim
+disilso     2260  0.0  0.2 699880 15720 ?        SNsl 10:38   0:00 /usr/libexec/gsd-color
+disilso     2262  0.0  0.1 366240  8064 ?        SNsl 10:38   0:00 /usr/libexec/gsd-datetime
+disilso     2265  0.0  0.1 322356  7040 ?        SNsl 10:38   0:00 /usr/libexec/gsd-housekeeping
+disilso     2269  0.0  0.2 353560 12656 ?        SNsl 10:38   0:00 /usr/libexec/gsd-keyboard
+disilso     2273  0.0  0.2 680236 14288 ?        SNsl 10:38   0:00 /usr/libexec/gsd-media-keys
+disilso     2278  0.0  0.2 537268 14016 ?        SNsl 10:38   0:00 /usr/libexec/gsd-power
+disilso     2280  0.0  0.1 259684  8960 ?        SNsl 10:38   0:00 /usr/libexec/gsd-print-notifications
+disilso     2281  0.0  0.1 467656  6144 ?        SNsl 10:38   0:00 /usr/libexec/gsd-rfkill
+disilso     2284  0.0  0.0 246088  5632 ?        SNsl 10:38   0:00 /usr/libexec/gsd-screensaver-proxy
+disilso     2285  0.0  0.1 475720  8448 ?        SNsl 10:38   0:00 /usr/libexec/gsd-sharing
+disilso     2287  0.0  0.1 469556  6912 ?        SNsl 10:38   0:00 /usr/libexec/gsd-smartcard
+disilso     2292  0.0  0.1 192628  7552 ?        SNl  10:38   0:00 touchegg
+disilso     2293  0.0  0.1 329160  7424 ?        SNsl 10:38   0:00 /usr/libexec/gsd-sound
+disilso     2295  0.0  0.0 232264  5504 ?        SNl  10:38   0:00 /usr/libexec/gsd-disk-utility-notify
+disilso     2298  0.0  0.2 353564 12488 ?        SNsl 10:38   0:00 /usr/libexec/gsd-wacom
+disilso     2305  0.0  0.2 893960 16768 ?        SNl  10:38   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+disilso     2307  0.0  0.2 355668 13256 ?        SNsl 10:38   0:00 /usr/libexec/gsd-xsettings
+disilso     2313  0.0  0.1 173280  6400 ?        SNl  10:38   0:00 /usr/libexec/ibus-memconf
+disilso     2323  0.0  0.2 284104 13004 ?        SNl  10:38   0:03 /usr/libexec/ibus-extension-gtk3
+disilso     2328  0.0  0.1 206284 11956 ?        SNl  10:38   0:00 /usr/libexec/ibus-x11 --kill-daemon
+disilso     2329  0.0  0.1 269088  7936 ?        SNl  10:38   0:00 /usr/bin/python3 /usr/lib/hidpi-daemon/hidpi-notification
+disilso     2334  0.0  0.1 394656  7040 ?        SNsl 10:38   0:01 /usr/libexec/ibus-portal
+disilso     2344  0.0  0.2 444944 15540 ?        SNl  10:38   0:00 /usr/bin/python3 /usr/lib/hidpi-daemon/hidpi-daemon
+disilso     2402  0.0  0.1 352188  9600 ?        SNl  10:38   0:00 /usr/libexec/gsd-printer
+disilso     2448  0.0  0.1 173280  7040 ?        SNl  10:38   0:03 /usr/libexec/ibus-engine-simple
+disilso     2453  0.0  0.2 2883744 12728 ?       SNsl 10:38   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+disilso     2459  0.0  0.2 354268 12736 ?        SNsl 10:38   0:00 /usr/libexec/xdg-desktop-portal-gtk
+root        2491  0.0  0.1 134100  8736 ?        SNs  10:38   0:00 /usr/bin/python3 /usr/lib/pop-transition/service.py
+disilso     2514  0.0  0.4 3047300 29044 ?       SNl  10:38   0:04 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 1 -D 0:0:3840:2160:1:0:0:0:0:0 -D 3840:1080:1920:1080:1:32:72:0:0:1
+disilso     2546  0.0  0.0 630092  4400 ?        SNsl 10:38   0:00 /usr/bin/pop-system-updater
+disilso     2560  0.0  0.1 246540  6528 ?        SNsl 10:38   0:00 /usr/libexec/flatpak-session-helper
+disilso     2564  0.0  0.0   4104   788 ?        Ss   10:38   0:00 server --sh -n /run/user/1000/.flatpak-helper/pkcs11-flatpak-2560 --provider p11-kit-trust.so pkcs11:model=p11-kit-trust?write-protected=yes
+disilso     3510  0.2  0.3 1247036 19192 ?       SNl  10:39   0:42 io.elementary.appcenter -s
+root        3531  0.0  0.0      0     0 ?        I<   10:39   0:00 [tls-strp]
+disilso     3540  0.2  0.5 563224 32728 ?        SNsl 10:39   0:34 /usr/libexec/gnome-terminal-server
+disilso     3566  0.0  0.0  21332  3840 pts/0    Ss   10:39   0:00 bash
+root        4490  0.0  0.1 250084  6520 ?        SNsl 10:40   0:00 /usr/libexec/boltd
+disilso     5265  0.5  0.8 2159648 48800 ?       SNl  11:00   1:16 /usr/lib/virtualbox/VirtualBox
+disilso     5285  0.3  0.1  84852  7776 ?        SN   11:00   0:47 /usr/lib/virtualbox/VBoxXPCOMIPCD
+disilso     5292  0.5  0.3 979064 19732 ?        SNl  11:00   1:27 /usr/lib/virtualbox/VBoxSVC --auto-shutdown
+disilso     5346  0.1  1.7 1177624188 107252 ?   SNLl 11:00   0:29 /usr/share/code/code --unity-launch
+disilso     5350  0.0  0.1 33779908 11776 ?      SN   11:00   0:00 /usr/share/code/code --type=zygote --no-zygote-sandbox
+disilso     5351  0.0  0.2 33779896 12544 ?      SN   11:00   0:00 /usr/share/code/code --type=zygote
+disilso     5353  0.0  0.0 33779924 3672 ?       SN   11:00   0:00 /usr/share/code/code --type=zygote
+disilso     5367  0.0  0.2 33601188 12264 ?      SNl  11:00   0:00 /usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/disilso/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=d390409d-585f-4d34-a910-7c9076fcbea1&iid=d390409d-585f-4d34-a910-7c9076fcbea1&sid=d390409d-585f-4d34-a910-7c9076fcbea1 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.83.1 --annotation=lsb-release=Pop!_OS 22.04 LTS --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=25.8.4 --initial-client-fd=47 --shared-client-connection
+disilso     5381  0.1  0.6 34205116 41160 ?      SNl  11:00   0:23 /usr/share/code/code --type=gpu-process --crashpad-handler-pid=5367 --enable-crash-reporter=d091e438-5c80-487d-8985-fe7ca1ab6562,no_channel --user-data-dir=/home/disilso/.config/Code --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=0,i,6421962614098244723,17514045756015546427,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+disilso     5389  0.0  0.4 33837816 24444 ?      SNl  11:00   0:01 /usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=5367 --enable-crash-reporter=d091e438-5c80-487d-8985-fe7ca1ab6562,no_channel --user-data-dir=/home/disilso/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6421962614098244723,17514045756015546427,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+disilso     5425  0.5  2.4 1185831756 145184 ?   SNl  11:00   1:28 /usr/share/code/code --type=renderer --crashpad-handler-pid=5367 --enable-crash-reporter=d091e438-5c80-487d-8985-fe7ca1ab6562,no_channel --user-data-dir=/home/disilso/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --app-path=/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --first-renderer-process --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1699364262760191 --launch-time-ticks=1358752997 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6421962614098244723,17514045756015546427,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --vscode-window-config=vscode:bce72a40-5615-4328-ab69-860070096d0f
+disilso     5468  0.1  1.0 1177359160 62144 ?    SNl  11:00   0:16 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=5367 --enable-crash-reporter=d091e438-5c80-487d-8985-fe7ca1ab6562,no_channel --user-data-dir=/home/disilso/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6421962614098244723,17514045756015546427,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+disilso     5559  0.0  0.1 398512  7296 ?        SNl  11:00   0:00 /usr/libexec/gvfsd-network --spawner :1.9 /org/gtk/gvfs/exec_spaw/1
+disilso     5576  0.0  0.1 326652  6912 ?        SNl  11:00   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.9 /org/gtk/gvfs/exec_spaw/3
+root        6266  0.0  0.0      0     0 ?        I    11:00   0:01 [kworker/0:0-events]
+root        6388  0.0  0.0      0     0 ?        I<   11:00   0:00 [dio/nvme0n1p3]
+disilso     7138  0.0  0.0   7972  3968 ?        SN   11:01   0:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+disilso     7652  0.0  0.0   3644  1792 ?        SN   11:55   0:00 bwrap --args 44 brave
+disilso     7659  0.0  0.0   3644  1920 ?        SN   11:55   0:00 bwrap --args 43 xdg-dbus-proxy --args=47
+disilso     7660  0.0  0.0 172840  5888 ?        SNl  11:55   0:01 xdg-dbus-proxy --args=47
+disilso     7662  0.0  0.0   3644  1024 ?        SN   11:55   0:00 bwrap --args 44 brave
+disilso     7663  1.5  4.8 34265952 290820 ?     SLl  11:55   3:00 /app/brave/brave --disable-features=WebAssemblyTrapHandler,DesktopPWAsRunOnOsLogin --no-default-browser-check
+disilso     7670  0.0  0.1 305592 11392 ?        SNsl 11:55   0:00 /usr/libexec/flatpak-portal
+disilso     7677  0.0  0.0   5776  1408 ?        S    11:55   0:00 cat
+disilso     7678  0.0  0.0   5776  1408 ?        S    11:55   0:00 cat
+disilso     7683  0.0  0.0 33592716 4352 ?       SNl  11:55   0:00 /app/brave/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/disilso/.var/app/com.brave.Browser/config/BraveSoftware/Brave-Browser/Crash Reports --metrics-dir=/home/disilso/.var/app/com.brave.Browser/config/BraveSoftware/Brave-Browser --url=https://cr.brave.com --annotation=channel=unknown --annotation=lsb-release=Freedesktop.org SDK 22.08 (Flatpak runtime) --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=118.1.59.124 --initial-client-fd=10 --shared-client-connection
+disilso     7687  0.0  0.0 33583480 4224 ?       SNl  11:55   0:00 /app/brave/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/disilso/.var/app/com.brave.Browser/config/BraveSoftware/Brave-Browser/Crash Reports --url=https://cr.brave.com --annotation=channel=unknown --annotation=lsb-release=Freedesktop.org SDK 22.08 (Flatpak runtime) --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=118.1.59.124 --initial-client-fd=9 --shared-client-connection
+disilso     7693  0.0  0.8 33941896 50048 ?      S    11:55   0:00 /app/brave/brave --type=zygote --no-zygote-sandbox --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --change-stack-guard-on-fork=enable
+disilso     7695  0.0  0.0      0     0 ?        Z    11:55   0:00 [zypak-sandbox] <defunct>
+disilso     7697  0.0  0.0   3644  1920 ?        SNs  11:55   0:00 bwrap --args 40 /app/bin/zypak-helper child - /app/brave/brave --type=zygote --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --change-stack-guard-on-fork=enable
+disilso     7705  0.0  0.0   3644  1280 ?        SN   11:55   0:00 bwrap --args 40 /app/bin/zypak-helper child - /app/brave/brave --type=zygote --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --change-stack-guard-on-fork=enable
+disilso     7706  0.0  0.8 33944268 53632 ?      SN   11:55   0:00 /app/brave/brave --type=zygote --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --change-stack-guard-on-fork=enable
+disilso     7731  4.1  2.2 34285672 135528 ?     Sl   11:55   7:54 /app/brave/brave --type=gpu-process --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --change-stack-guard-on-fork=enable --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=0,i,9243545818188053936,15872723981936421596,262144 --disable-features=DesktopPWAsRunOnOsLogin,WebAssemblyTrapHandler
+disilso     7736  0.5  1.7 33975120 106784 ?     Sl   11:55   1:03 /app/brave/brave --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,9243545818188053936,15872723981936421596,262144 --disable-features=DesktopPWAsRunOnOsLogin,WebAssemblyTrapHandler
+disilso     7749  0.0  0.7 34003320 46156 ?      SNl  11:55   0:01 /app/brave/brave --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=utility --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,9243545818188053936,15872723981936421596,262144 --disable-features=DesktopPWAsRunOnOsLogin,WebAssemblyTrapHandler
+disilso     7771  0.0  2.4 1187004864 146248 ?   SNl  11:55   0:11 /app/brave/brave --type=renderer --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=2976713801840314370 --first-renderer-process --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=8 --time-ticks-at-unix-epoch=-1699364262760191 --launch-time-ticks=4665362050 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,9243545818188053936,15872723981936421596,262144 --disable-features=DesktopPWAsRunOnOsLogin,WebAssemblyTrapHandler
+disilso     7815  0.0  1.6 1186991392 97424 ?    SNl  11:55   0:00 /app/brave/brave --type=renderer --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --extension-process --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=2976713801840314370 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1699364262760191 --launch-time-ticks=4665549434 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,9243545818188053936,15872723981936421596,262144 --disable-features=DesktopPWAsRunOnOsLogin,WebAssemblyTrapHandler
+disilso     7832  0.0  1.9 1186984932 116012 ?   SNl  11:55   0:08 /app/brave/brave --type=renderer --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --extension-process --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=2976713801840314370 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1699364262760191 --launch-time-ticks=4665760355 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,9243545818188053936,15872723981936421596,262144 --disable-features=DesktopPWAsRunOnOsLogin,WebAssemblyTrapHandler
+disilso     7930  0.0  0.0  10748  5736 ?        SN   11:55   0:00 p11-kit-remote --provider p11-kit-trust.so pkcs11:model=p11-kit-trust?write-protected=yes
+root        8080  0.0  0.0      0     0 ?        I<   11:55   0:00 [kworker/7:3H-kblockd]
+disilso     8096  7.5  4.1 1193358316 247460 ?   SNl  11:55  14:32 /app/brave/brave --type=renderer --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=2976713801840314370 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=28 --time-ticks-at-unix-epoch=-1699364262760191 --launch-time-ticks=4686919834 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,9243545818188053936,15872723981936421596,262144 --disable-features=DesktopPWAsRunOnOsLogin,WebAssemblyTrapHandler
+disilso     8121  0.1  1.1 34007060 71024 ?      Sl   11:55   0:11 /app/brave/brave --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,9243545818188053936,15872723981936421596,262144 --disable-features=DesktopPWAsRunOnOsLogin,WebAssemblyTrapHandler
+disilso     8673  0.9  3.3 1187005740 202784 ?   SNl  12:05   1:47 /app/brave/brave --type=renderer --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=2976713801840314370 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=50 --time-ticks-at-unix-epoch=-1699364262760191 --launch-time-ticks=5293919437 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,9243545818188053936,15872723981936421596,262144 --disable-features=DesktopPWAsRunOnOsLogin,WebAssemblyTrapHandler
+disilso     8837  0.6  3.9 1189144160 235948 ?   SNl  12:14   1:09 /app/brave/brave --type=renderer --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=2976713801840314370 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=56 --time-ticks-at-unix-epoch=-1699364262760191 --launch-time-ticks=5778051641 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,9243545818188053936,15872723981936421596,262144 --disable-features=DesktopPWAsRunOnOsLogin,WebAssemblyTrapHandler
+disilso     9271  0.0  2.2 1186988424 135900 ?   SNl  12:20   0:02 /app/brave/brave --type=renderer --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=2976713801840314370 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=70 --time-ticks-at-unix-epoch=-1699364262760191 --launch-time-ticks=6138028036 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,9243545818188053936,15872723981936421596,262144 --disable-features=DesktopPWAsRunOnOsLogin,WebAssemblyTrapHandler
+disilso     9338  0.0  0.6 857580 37908 ?        SNsl 12:21   0:01 /usr/bin/nautilus --gapplication-service
+root        9527  0.0  0.0      0     0 ?        I<   12:25   0:00 [kworker/2:0H-ttm]
+root        9573  0.0  0.0      0     0 ?        I<   12:25   0:00 [kworker/1:5H-ttm]
+root        9574  0.0  0.0      0     0 ?        I<   12:25   0:00 [kworker/1:6H-kblockd]
+root        9577  0.0  0.0      0     0 ?        I<   12:26   0:02 [kworker/u33:2-rtw_tx_wq]
+disilso    10003  1.4  1.2 1488196 76732 ?       SNl  12:40   2:05 gnome-control-center bluetooth
+disilso    10030  0.0  0.0  46988  5120 ?        SNs  12:40   0:00 /usr/lib/bluetooth/obexd
+root       10090  0.0  0.0      0     0 ?        I<   12:41   0:00 [kworker/3:0H-kblockd]
+root       10175  0.0  0.0      0     0 ?        I<   12:43   0:00 [kworker/5:1H-kblockd]
+disilso    10261  0.0  1.0 1186942148 62176 ?    SNl  12:46   0:00 /app/brave/brave --type=renderer --crashpad-handler-pid=17 --enable-crash-reporter=c1d78122-1fad-4538-9df2-426263cf39b4,unknown --origin-trial-public-key=bYUKPJoPnCxeNvu72j4EmPuK7tr1PAC7SHh8ld9Mw3E=,fMS4mpO6buLQ/QMd+zJmxzty/VQ6B1EUZqoCU04zoRU= --change-stack-guard-on-fork=enable --brave_session_token=2976713801840314370 --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=87 --time-ticks-at-unix-epoch=-1699364262760191 --launch-time-ticks=7741074140 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,9243545818188053936,15872723981936421596,262144 --disable-features=DesktopPWAsRunOnOsLogin,WebAssemblyTrapHandler
+root       10279  0.0  0.0      0     0 ?        I<   12:46   0:00 [kworker/6:1H-kblockd]
+root       10287  0.0  0.0      0     0 ?        I<   12:47   0:00 [kworker/2:1H-kblockd]
+root       10406  0.0  0.0      0     0 ?        I<   12:52   0:00 [kworker/5:0H-kblockd]
+root       10499  0.0  0.0      0     0 ?        I    12:57   0:00 [kworker/7:2-events]
+disilso    10574  0.0  0.0  21332  5376 pts/1    SNs  13:02   0:00 bash
+disilso    11185  2.3 36.7 3498840 2203492 ?     SNl  13:04   2:53 /usr/lib/virtualbox/VBoxHeadless --comment jenkins-docker-project_default_1699365651603_97567 --startvm 5f35b32b-b7ba-4be4-8859-5062c5f523d6 --vrde config
+root       11557  0.0  0.0      0     0 ?        I    13:05   0:00 [kworker/6:2-pm]
+root       11584  0.0  0.0      0     0 ?        I    13:17   0:00 [kworker/7:1-events]
+root       11591  0.2  0.0      0     0 ?        I    13:20   0:17 [kworker/u32:0-flush-259:0]
+root       11601  0.0  0.0      0     0 ?        I    13:31   0:01 [kworker/2:1-events]
+root       11674  0.2  0.0      0     0 ?        I    13:59   0:12 [kworker/u32:1-events_unbound]
+root       11687  0.3  0.0      0     0 ?        I    14:15   0:10 [kworker/u32:5-ext4-rsv-conversion]
+root       11700  0.0  0.0      0     0 ?        I<   14:22   0:00 [kworker/0:1H]
+root       11716  0.0  0.0      0     0 ?        I<   14:33   0:00 [kworker/7:0H-ttm]
+root       11733  0.3  0.0      0     0 ?        I    14:34   0:07 [kworker/u32:4-events_power_efficient]
+root       11736  0.0  0.0      0     0 ?        I    14:34   0:00 [kworker/4:0-events]
+root       11741  0.3  0.0      0     0 ?        R    14:34   0:06 [kworker/u32:8+events_unbound]
+root       11757  0.0  0.0      0     0 ?        I    14:42   0:00 [kworker/2:2-events]
+root       11760  0.5  0.0      0     0 ?        I    14:46   0:06 [kworker/u32:2-flush-259:0]
+root       11761  0.0  0.0      0     0 ?        I<   14:47   0:00 [kworker/u33:3-rtw_tx_wq]
+root       11763  0.0  0.0      0     0 ?        I    14:48   0:00 [kworker/5:2-events]
+root       11767  0.0  0.0      0     0 ?        I    14:51   0:00 [kworker/6:0-mm_percpu_wq]
+root       11769  0.0  0.0      0     0 ?        I    14:53   0:00 [kworker/1:1-events]
+root       11771  0.1  0.0      0     0 ?        I    14:54   0:01 [kworker/u32:3-ext4-rsv-conversion]
+root       11772  0.0  0.0      0     0 ?        I    14:54   0:00 [kworker/4:1-events]
+root       11775  0.0  0.0      0     0 ?        I    14:56   0:00 [kworker/0:1-events]
+root       11777  0.0  0.0      0     0 ?        I<   14:59   0:00 [kworker/6:2H-kblockd]
+root       11778  0.0  0.0      0     0 ?        I    14:59   0:00 [kworker/3:0-events]
+root       11793  0.0  0.0      0     0 ?        I<   15:00   0:00 [kworker/3:2H-kblockd]
+root       11813  0.0  0.0      0     0 ?        I<   15:00   0:00 [kworker/4:2H-ttm]
+root       11814  0.0  0.0      0     0 ?        I<   15:00   0:00 [kworker/4:3H-kblockd]
+root       11815  0.0  0.0      0     0 ?        I<   15:00   0:00 [kworker/0:0H-kblockd]
+disilso    11871  0.0  0.0  19772  3456 pts/1    S+   15:02   0:00 bash /usr/bin/vagrant ssh
+disilso    11872  0.0  0.0 710596  1920 pts/1    Sl+  15:02   0:00 /opt/vagrant/bin/vagrant ssh
+disilso    11877  0.3  0.1  27040  8192 pts/1    S+   15:02   0:01 /usr/bin/ssh vagrant@127.0.0.1 -p 2222 -o LogLevel=FATAL -o Compression=yes -o DSAAuthentication=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -o PubkeyAcceptedKeyTypes=+ssh-rsa -o HostKeyAlgorithms=+ssh-rsa -i /home/disilso/alura/jenkins-docker-project/.vagrant/machines/default/virtualbox/private_key
+root       12019  0.0  0.0      0     0 ?        I    15:04   0:00 [kworker/3:2-mm_percpu_wq]
+root       12116  0.0  0.0      0     0 ?        I    15:06   0:00 [kworker/u32:6]
+root       12129  0.0  0.0      0     0 ?        I<   15:07   0:00 [kworker/u33:0-rtw_tx_wq]
+disilso    12131  0.7  1.2 1177367920 77604 ?    SNl  15:07   0:00 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=5367 --enable-crash-reporter=d091e438-5c80-487d-8985-fe7ca1ab6562,no_channel --user-data-dir=/home/disilso/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6421962614098244723,17514045756015546427,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+disilso    12142  5.6  2.3 1177360072 138964 ?   SNl  15:07   0:03 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --crashpad-handler-pid=5367 --enable-crash-reporter=d091e438-5c80-487d-8985-fe7ca1ab6562,no_channel --user-data-dir=/home/disilso/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --bypasscsp-schemes --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --streaming-schemes --shared-files=v8_context_snapshot_data:100 --field-trial-handle=0,i,6421962614098244723,17514045756015546427,262144 --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess
+disilso    12164  1.7  1.4 1177313060 84516 ?    SNl  15:07   0:00 /usr/share/code/code --ms-enable-electron-run-as-node /home/disilso/.vscode/extensions/redhat.vscode-yaml-1.14.0/dist/languageserver.js --node-ipc --clientProcessId=12142
+root       12173  0.0  0.0      0     0 ?        I<   15:07   0:00 [kworker/6:0H]
+root       12174  0.0  0.0      0     0 ?        I<   15:07   0:00 [kworker/7:1H]
+disilso    12180  0.7  1.1 1177280248 67028 ?    SNl  15:07   0:00 /usr/share/code/code --ms-enable-electron-run-as-node /usr/share/code/resources/app/extensions/json-language-features/server/dist/node/jsonServerMain --node-ipc --clientProcessId=12142
+root       12181  0.0  0.0      0     0 ?        I<   15:07   0:00 [kworker/5:2H-kblockd]
+root       12182  0.0  0.0      0     0 ?        I<   15:07   0:00 [kworker/3:1H]
+disilso    12201  0.0  0.0  22504  3328 pts/0    R+   15:08   0:00 ps aux
