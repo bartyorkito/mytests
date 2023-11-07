@@ -13,8 +13,6 @@ root          15  0.0  0.0      0     0 ?        S    10:37   0:00 [ksoftirqd/0]
 root          16  0.0  0.0      0     0 ?        I    10:37   0:08 [rcu_preempt]
 root          17  0.0  0.0      0     0 ?        S    10:37   0:00 [migration/0]
 root          18  0.0  0.0      0     0 ?        S    10:37   0:00 [idle_inject/0]
-
-
 root          19  0.0  0.0      0     0 ?        S    10:37   0:00 [cpuhp/0]
 root          20  0.0  0.0      0     0 ?        S    10:37   0:00 [cpuhp/2]
 root          21  0.0  0.0      0     0 ?        S    10:37   0:00 [idle_inject/2]
